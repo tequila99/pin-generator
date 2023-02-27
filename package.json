@@ -1,0 +1,8 @@
+{
+  "name": "pin-generator",
+  "version": "1.0.0",
+  "description": "Генерация случайных pin-кодов",
+  "main": "index.js",
+  "author": "Ivan Milovanov <tequila00@yandex.ru>",
+  "license": "MIT"
+}
